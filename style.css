@@ -158,10 +158,10 @@ body {
 
 .layout .item:nth-child(4) img {
     position: absolute;
-    height: 410px;
+    height: 350px;
     object-fit: cover;
     object-position: left;
-    top: 150px;
+    top: 200px;
 }
 
 .layout .item:nth-child(5) {
